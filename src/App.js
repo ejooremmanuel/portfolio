@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import React, { useContext } from "react";
 import "semantic-ui-css/semantic.min.css";
 import Intro from "./components/intro/Intro";
 import Toggle from "./components/toggle/Toggle";
